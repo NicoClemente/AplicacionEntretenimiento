@@ -81,10 +81,15 @@ Pero fue diseñado de esta forma en caso de que incorporemos persistencia de dat
 ## Arquitectura del Proyecto
 Estructura de Carpetas
 lib/
+
 ├── models/         # Definición de modelos de datos
+
 ├── screens/        # Pantallas de la aplicación
+
 ├── services/       # Servicios para comunicación con API
+
 ├── widgets/        # Widgets reutilizables
+
 └── providers/      # Gestión de estado
 
 
@@ -98,17 +103,17 @@ lib/
 ## Cómo Clonar y Ejecutar el Proyecto
 1. Clona el repositorio:
    ```
-   git clone https://github.com/Stefacito99/TpAPDirectaLabo4G3
+   git clone https://github.com/NicoClemente/AplicacionEntretenimiento.git
    ```
 2. Accede al directorio:
    ```
-   cd TpAPDirectaLabo4G3
+   cd AplicacionEntretenimiento
    ```
 3. Instala dependencias:
    ```
    flutter pub get
    ```
-4. generar archivo .env en la carpeta TpAPDirectaLabo4G3 con el contenido del sample.env
+4. generar archivo .env en la carpeta AplicacionEntretenimiento con el contenido del sample.env (RENDER_URL)
 
 5. Ejecuta la aplicación:
    ```
