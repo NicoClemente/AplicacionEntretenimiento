@@ -1,4 +1,4 @@
-### 🎬 FlixFinder - Tu Guía de Cine y Series
+# 🎬 FlixFinder - Tu Guía de Cine y Series
 
 FlixFinder es un prototipo de una aplicación desarrollada en Flutter, diseñada para permitir a los 
 amantes del cine y la televisión descubrir información detallada sobre películas, series y actores 
@@ -23,7 +23,6 @@ práctico 1, la cual se encuentra desplegada en render.
 - Perfil de usuario con datos personales y switch de tema (Dark/Light)
 - AppBar personalizado reutilizable
 - Archivo unificador `screens/screens.dart`
-
 
 ### 🎭 Sección de Actores (Carla Racciatti)
 
@@ -115,11 +114,10 @@ lib/
    ```
 
 6. Ejecuta las API de Render según lo requiera :
-   ```
-    - Películas: https://apigrupo3.onrender.com/api/v1/peliculas  
-    - Series: https://apigrupo3.onrender.com/api/v1/series  
-    - Actores: https://apigrupo3.onrender.com/api/v1/actores  
-   ```
+   
+   🔗 Películas: https://apigrupo3.onrender.com/api/v1/peliculas  
+   🔗 Series: https://apigrupo3.onrender.com/api/v1/series  
+   🔗 Actores: https://apigrupo3.onrender.com/api/v1/actores  
 
 ## Equipo de Desarrollo
 - Nicolás Clemente S.
