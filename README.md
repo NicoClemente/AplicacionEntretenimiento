@@ -1,5 +1,4 @@
-# TpAPDirectaLabo4G3
-# FlixFinder
+🎬 FlixFinder - Tu Guía de Cine y Series
 
 FlixFinder es un prototipo de una aplicación desarrollada en Flutter, diseñada para permitir a los 
 amantes del cine y la televisión descubrir información detallada sobre películas, series y actores 
@@ -10,12 +9,7 @@ práctico de aprobación directa de la materia Laboratorio IV (Profesor Sebasti�
 
 🔗 API Consumida
  Este proyecto consume los datos desde una API que fue desarrollada por nosotros mismos en el trabajo 
-práctico 1, la cual se encuentra desplegada en render. 
-
-
-## Contribuciones de los miembros del equipo: 
-LOS TRES MIEMBROS DEL EQUIPO PROBAMOS LA EJECUCIÓN DEL PROTOTIPO MEDIANTE VISUALIZACIÓN EN EL NAVEGADOR 
-(no utilizamos Android Studio) 
+práctico 1, la cual se encuentra desplegada en render.
 
 ### Diseño Responsivo
 
@@ -118,6 +112,13 @@ lib/
 5. Ejecuta la aplicación:
    ```
    flutter run
+   ```
+
+6. Ejecuta URLs de Render según lo requiera :
+   ```
+   - Películas: https://apigrupo3.onrender.com/api/v1/peliculas
+   - Series: https://apigrupo3.onrender.com/api/v1/series
+   - Actores: https://apigrupo3.onrender.com/api/v1/actores
    ```
 
 ## Equipo de Desarrollo
