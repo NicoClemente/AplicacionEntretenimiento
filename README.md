@@ -114,11 +114,11 @@ lib/
    flutter run
    ```
 
-6. Ejecuta URLs de Render según lo requiera :
+6. Ejecuta las API de Render según lo requiera :
    ```
-   - Películas: https://apigrupo3.onrender.com/api/v1/peliculas
-   - Series: https://apigrupo3.onrender.com/api/v1/series
-   - Actores: https://apigrupo3.onrender.com/api/v1/actores
+    - Películas: https://apigrupo3.onrender.com/api/v1/peliculas  
+    - Series: https://apigrupo3.onrender.com/api/v1/series  
+    - Actores: https://apigrupo3.onrender.com/api/v1/actores  
    ```
 
 ## Equipo de Desarrollo
