@@ -1,4 +1,4 @@
-🎬 FlixFinder - Tu Guía de Cine y Series
+### 🎬 FlixFinder - Tu Guía de Cine y Series
 
 FlixFinder es un prototipo de una aplicación desarrollada en Flutter, diseñada para permitir a los 
 amantes del cine y la televisión descubrir información detallada sobre películas, series y actores 
